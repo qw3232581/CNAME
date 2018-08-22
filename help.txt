@@ -1,12 +1,12 @@
 0 内容
-act.svg
+http://zmovo.com/act.svg
 
 1 登陆地址
-kbase-ccs.aliyun.com/knowledge/index.htm
+https://kbase-ccs.aliyun.com/knowledge/index.htm
 zhaom@centanet.onaliyun.com
 
 2 二期预期
-second-phase.png
+http://zmovo.com/second-phase.png
 
 3 产品更新
 https://www.cloud.alipay.com/docs/2/48684
